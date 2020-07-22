@@ -9,7 +9,7 @@
       <img width="18" height="18" src="https://github.com/monsterlin/monsterlin/blob/master/imgs/weibo.svg?sanitize=true" />
     </a>
     <a href="https://twitter.com/codeslin">
-      <img width="18" height="18" src="https://github.com/monsterlin/monsterlin/blob/master/imgs/twitter.svg?sanitimonmonitize=true" />
+      <img width="18" height="18"  src="https://github.com/monsterlin/monsterlin/blob/master/imgs/twitter.svg?sanitize=true" />
     </a>
     <a href="mailto:monster941025@gmail.com">
       <img width="18" height="18" src="https://github.com/monsterlin/monsterlin/blob/master/imgs/mail.svg?sanitize=true" />
