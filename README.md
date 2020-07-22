@@ -5,7 +5,7 @@
   </a>
   <br>
   <p>
-    <a href="https://weibo.com/codeslin>
+    <a href="https://weibo.com/codeslin">
       <img width="18" height="18" src="https://github.com/monsterlin/monsterlin/blob/master/imgs/weibo.svg?sanitize=true" />
     </a>
     <a href="https://twitter.com/codeslin">
